@@ -1,4 +1,4 @@
-FINAL EXAM
+PARTICLE SWARM OPTIMIZATION
 ==========
 
 Matthew Huson and Eric Adams
@@ -6,8 +6,7 @@ Matthew Huson and Eric Adams
 dsa5113 Spring 2020
 -------------------
 
-### This project is broken into two files: one for the Genetic Algorithm question and one for the Particle Swarm question
-#### Both methods seek to find the global minimum for the Schwefel Function ( https://www.sfu.ca/~ssurjano/schwef.html ) in certain dimensions
+### This project seekS to find the global minimum for the Schwefel Function ( https://www.sfu.ca/~ssurjano/schwef.html ) in certain dimensions
 
 ### PYTHON VERSION USED ###
 
@@ -23,13 +22,6 @@ dsa5113 Spring 2020
 * matplotlib - external
 * os - built in
 * pickle - built in
-
-
-### GENETIC ALGORITHM ###
-
-#### ASSUMPTIONS/BUGS ####
-
-#### CODE/FUNCTIONALITY ####
 
 
 ### PARTICLE SWARM ###
